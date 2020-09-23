@@ -1,6 +1,4 @@
-commonLabels:
-  variant: production
-  org: acmeCorporation
+
 commonAnnotations:
   note: Hello, I am production!
 bases:
