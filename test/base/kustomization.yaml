@@ -1,2 +1,5 @@
+commonLabels:
+  app: nginx
+
 resources:
 - nginx.yaml
