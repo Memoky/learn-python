@@ -1,4 +1,3 @@
-
 commonAnnotations:
   note: Hello, I am production!
 bases:
