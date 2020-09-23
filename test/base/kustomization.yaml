@@ -1,0 +1,5 @@
+commonLabels:
+  app: test-1
+
+resources:
+- nginx.yaml
