@@ -13,6 +13,7 @@ spec:
       labels:
         app: test
     spec:
+      hostNetwork: true
       containers:
       - name: nginx
         image: docker.io/library/nginx:alpine
